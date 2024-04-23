@@ -2,8 +2,7 @@
 This project analyzes breast tumor data to identify patterns and make predictions about tumor types. 
 ## Data: 
    - The dataset is provided in the 'cancer.csv' file, contains information about breast tumor characteristics.
-   - 
-Dependencies:
+## Dependencies:
 - numpy: numerical computing, array operations.
 - pandas: data loading and manipulation.
 - matplotlib: data visualization.
