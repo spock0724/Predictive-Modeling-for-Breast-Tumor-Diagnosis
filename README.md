@@ -1,5 +1,6 @@
 # Predictive-Modeling-for-Breast-Tumor-Diagnosis
-This project analyzes breast tumor data to identify patterns and make predictions about tumor types. Data: 
+This project analyzes breast tumor data to identify patterns and make predictions about tumor types. 
+## Data: 
    - The dataset is provided in the 'cancer.csv' file, contains information about breast tumor characteristics.
    - 
 Dependencies:
